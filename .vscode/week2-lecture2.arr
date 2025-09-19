@@ -26,3 +26,5 @@ fun celcius(c :: Number) -> Number:
 end
 
 celcius(0)
+
+celcius(-5)
